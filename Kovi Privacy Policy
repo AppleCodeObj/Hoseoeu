@@ -1,0 +1,113 @@
+Kovi Privacy Policy
+
+Effective: July 8, 2026
+
+Kovi is a creative camera and filter application that allows users 
+to capture photos, apply artistic effects, and share creative works 
+with a community of creators. This policy explains what data we 
+handle, why, and how you can control it.
+
+1. Who We Are
+Kovi is operated by Kovieloer. Questions about privacy can be 
+sent to: ricardoalvarezlda@gmail.com
+
+2. Data We Collect
+
+a) Account data — email address (or Apple ID token if you use 
+Sign in with Apple), chosen username, and optional profile photo. 
+We do not store raw Apple credentials.
+
+b) Content you create — photos, posts, and comments you choose 
+to publish within the app. Content is stored on-device and only 
+shared when you explicitly tap "Publish."
+
+c) Usage signals — which screens you visit, features you tap, and 
+approximate session length. We collect this in aggregate to improve 
+the app; it is not tied to advertising profiles.
+
+d) Purchase receipts — when you subscribe to Kovi Creator Pass 
+or send a virtual Cheer item, Apple forwards a transaction receipt 
+for entitlement verification. We do not receive your payment card 
+details.
+
+e) Device metadata — iOS version, device model, crash logs. Used 
+solely for stability improvements.
+
+3. Camera and Facial Data
+Kovi uses your device camera to apply real-time artistic filters 
+and capture photos. All image processing is performed entirely on 
+your device using Apple's Core Image and Metal frameworks. Kovi 
+does not collect, analyze, store, or share any facial recognition 
+data, biometric data, or images. Photos are only saved to your 
+device's photo library when you explicitly choose to do so.
+
+The app does not perform facial recognition, face mapping, or any 
+form of biometric identification. No face data ever leaves your 
+device.
+
+4. How We Use Your Data
+We use the data above to: run and improve the Kovi platform; 
+verify your subscription entitlements; display your public posts 
+to other members; respond to support requests; and comply with law.
+
+We do not sell your personal data. We do not use your photos or 
+content to train AI models.
+
+5. AI Assistant
+The Kovi AI assistant operates entirely on-device using 
+pre-written, locally stored responses. No user input or 
+conversation data is transmitted to any server or third-party 
+AI service. The assistant does not use OpenAI, Google, or any 
+external machine learning service.
+
+6. Third-Party Services
+We use Apple StoreKit 2 for in-app purchases and AppsFlyer for 
+install attribution. AppsFlyer receives an anonymised device 
+identifier and install event; it does not receive your photos or 
+personal content. You may opt out of AppsFlyer tracking via 
+iOS Settings → Privacy & Security → Tracking.
+
+7. Content You Share
+Posts and comments you publish publicly are visible to all Kovi 
+members. You retain ownership of your content. By making content 
+public you grant Kovi a limited, non-exclusive licence to display 
+it within the platform. You can delete your public content at any 
+time from your profile.
+
+8. Data Retention
+We keep your account data while your account is active. If you 
+delete your account, we remove your personal data within 30 days, 
+except where retention is required by law. On-device data is 
+deleted when you uninstall the app.
+
+9. Children
+Kovi is not intended for users under 16. We do not knowingly 
+collect data from children. If you believe a child has created 
+an account, please contact us and we will remove it promptly.
+
+10. Your Rights
+Depending on your location you may have the right to access, 
+correct, export, or delete your personal data. To exercise these 
+rights, email us at ricardoalvarezlda@gmail.com. We will respond 
+within 30 days.
+
+11. Subscription Terms
+Kovi Creator Pass is an auto-renewing subscription. Payment is 
+charged to your Apple ID at confirmation of purchase. The 
+subscription renews automatically unless cancelled at least 
+24 hours before the end of the current period. You can manage 
+or cancel your subscription in iOS Settings → Apple ID → 
+Subscriptions.
+
+12. Security
+We use TLS for data in transit and AES-256 encryption for data 
+at rest. Please use a strong, unique password and enable 
+two-factor authentication where available.
+
+13. Updates
+We may update this policy when our practices change. We will 
+post the revised policy with an updated effective date. 
+Continued use of Kovi after an update constitutes acceptance.
+
+Contact
+mhernandez1902@hotmail.com
